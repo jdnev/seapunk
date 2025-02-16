@@ -1,0 +1,25 @@
+{
+  "name": "seapunk",
+  "version": "1.0.0",
+  "description": "webgl niceness, ecs framework",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdnev/seapunk.git"
+  },
+  "keywords": [
+    "webgl",
+    "niceness",
+    "ecs",
+    "library"
+  ],
+  "author": "jade evans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdnev/seapunk/issues"
+  },
+  "homepage": "https://github.com/jdnev/seapunk#readme"
+}
